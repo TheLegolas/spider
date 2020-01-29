@@ -1,0 +1,14 @@
+stl parts:
+2x endcap
+1x bottom
+1x mid
+1x base
+8x leg
+4x leg2
+4x motor_base
+1x frame1
+1x frame2
+
+also required:
+4x AA Batteries
+8x Servos
